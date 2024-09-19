@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Goku" height="200px" src="(https://i.pinimg.com/originals/3b/d5/d3/3bd5d332cb209ed24e42539fb7bf62b5.png)" hspace="10px" vspace="0px">
+                <img alt="Goku" height="200px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Goku.png" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
