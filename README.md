@@ -85,6 +85,15 @@ Procedimientos (Entregables)
 >>*   Revisión de Actas: Las actas pueden ser revisadas y modificadas con el consentimiento de todos los miembros del grupo, según sea necesario para reflejar cambios en el proyecto o en la dinámica del equipo.
 >*  #### Resolución de Conflictos
 >>*   En caso de desacuerdos o conflictos, el grupo deberá referirse al Acta de Colaboración para resolver la situación mediante los mecanismos previamente acordados. Si no se llega a una resolución, se consultará con el del curso para mediación.
+
+## **1.   Integrantes**
+En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
+## **2.	Vínculos académicos y descripción**
+
+Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
+## **3.	Nombre del proyecto y detalles**
+
+Describir el proyecto en pocas líneas y asignarle un nombre con una foto representativa del nombre del proyecto (no es una foto de los integrantes).
 ## **4. Licencia del software**
 
 Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
@@ -104,3 +113,17 @@ Describe los requisitos funcionales y no funcionales del software.
 
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
 *   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
+*   ## **8.	Versionado del software**
+
+Describe las versiones del software y su avance cada que se realice un procedimiento relevante en días desde el inicio hasta la entrega final.
+## **9.	Algoritmo**
+
+Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
+## **10.	Manual de usuario**
+
+Una carpeta en el repositorio en GitHub registrar el manual de uso del programa.
+# **GitHub**
+El líder del equipo debe crear una cuenta en GitHub y cargar los documentos previamente detallados en la entrega vincular a los compañeros en un repositorio compartido (Lo necesario para cargar en GitHub será explicado en clase).
+## **Fechas y documentos**
+*   Entrega 1: Para la primera entrega se debe enviar los puntos 1 a 7 --> Semana 8 (29 de septiembre).
+*   Entrega 2: Todo lo descrito en el presente documento. --> Semana 16
