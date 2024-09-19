@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Goku" height="200px" src="[https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg](https://i.pinimg.com/originals/ae/74/d9/ae74d995ea8719161e67a3becf92af0e.jpg)" hspace="10px" vspace="0px">
+                <img alt="Goku" height="200px" src="(https://i.pinimg.com/originals/3b/d5/d3/3bd5d332cb209ed24e42539fb7bf62b5.png)" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
