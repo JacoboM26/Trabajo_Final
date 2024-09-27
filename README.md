@@ -53,7 +53,8 @@
 Descripción del Problema: El restaurante “Delicias Gourmet” enfrenta problemas con la gestión de reservas y la asignación de mesas. Actualmente, el proceso se realiza manualmente, lo que provoca errores en la asignación de mesas, tiempos de espera prolongados y una experiencia insatisfactoria para los clientes. Además, no se tiene en cuenta la preferencia de los clientes habituales ni la capacidad del restaurante en tiempo real.
 Objetivo del Proyecto: Desarrollar un software que gestione las reservas y la asignación de mesas de manera eficiente. El programa debe permitir registrar las reservas, asignar mesas automáticamente según la disponibilidad y las preferencias de los clientes, y gestionar el flujo de clientes en el restaurante.
 
-# **El software de la EPS para las citas**
+# **El software del restaurante para las reservas**
+El restaurante la dolce vita, cuenta con un software que automatiza las funciones para asignar la mesa, esto con el fin de ahorrar tiempos de espera. Registrar de manera agil las reservas sin importar de donde provenga, asignar mesas dependiendo de la disponibilidad y preferencia del cliente y gestionar el flujo de los clientes en tiempo real.
 # **Objetivo**
 
 Crear un programa de consola visualmente amigable al usuario, en donde permita gestionar la atención de los pacientes y registrar los datos en un dataframe , para posteriormente exportar la atención en un archivo plano (CSV) usando Python y la gestión de dos documentos. Uno proporcionado por el repositorio inicial y otro creado por el estudiante para entregar una carpeta con los listados de pacientes.
@@ -84,13 +85,11 @@ Procedimientos (Entregables)
 >>*   En caso de desacuerdos o conflictos, el grupo deberá referirse al Acta de Colaboración para resolver la situación mediante los mecanismos previamente acordados. Si no se llega a una resolución, se consultará con el del curso para mediación.
 
 ## **1.   Integrantes**
-En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
+Soy Jacobo Ávila, soy alguien que le gusta el gimnasio y compartir con mis amigos.
 ## **2.	Vínculos académicos y descripción**
-
-Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
+Jacobo Ávila (Ing. Industrial). Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bien común incluyendome, una de mis fortalezas es que puedo adptarme para trabajar en diferentes situaciones y personas.
 ## **3.	Nombre del proyecto y detalles**
 
-Describir el proyecto en pocas líneas y asignarle un nombre con una foto representativa del nombre del proyecto (no es una foto de los integrantes).
 ## **4. Licencia del software**
 
 Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
