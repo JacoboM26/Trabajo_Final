@@ -89,8 +89,9 @@ Soy Jacobo Ávila, soy alguien que le gusta el gimnasio y compartir con mis amig
 ## **2.	Vínculos académicos y descripción**
 Jacobo Ávila (Ing. Industrial). Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bien común incluyendome, una de mis fortalezas es que puedo adptarme para trabajar en diferentes situaciones y personas.
 ## **3.	Nombre del proyecto y detalles**
-<img alt="Dolce Vita" height="600px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Dolce%20vita.jpeg" hspace="30px" vspace="30px">
-El proyecto automatizará las reservas para un restuarante, con el fin de ahorrar tiempos de espera. Este proyecto será llamado Dolce Vita
+<img alt="Dolce Vita" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Dolce%20vita.jpeg" hspace="20px" vspace="0px">
+>>*    El proyecto automatizará las reservas para un restuarante, con el fin de ahorrar tiempos de espera. Este proyecto será llamado Dolce Vita.
+
 ## **4. Licencia del software**
 
 Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
