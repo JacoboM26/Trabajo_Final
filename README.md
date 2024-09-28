@@ -102,10 +102,19 @@ Definir la licencia con la cual registra el software. https://chooser-beta.creat
 Proporciona una descripción general del software, sus objetivos y beneficios.
 `Ingresar el reporte de visión aquí`
 ## **6. Especificación de requisitos**
+- Requisitos funcionales:
+* Registrar las reservas: Los clientes deben contar con una interfaz sencilla de comprender para ingresar la información como; fecha, hora, nombre de la persona, numero de personas y su preferencia.
+* Automatización para la asignación de mesas: El software debe asignar mesas segun la disponibilidad y capacidad con la que cuente el restaurante, al igual que debe tener en cuenta las preferencias del cliente. Actualizar automaticamente el estado de las mesas (Libres u ocupadas)
+* Gestión de flujo de clientes: El software tendrá como misión verificar en tiempo real cuales mesas están libres u ocupadas. Además de avisar al personal de las próximas reservas o la preparación de las mesas.
+* Interfaz de usuario amigable: El personal deberá administrar las reservas y la asignación de mesas, a través de una pantalla facíl de usar. Mostrando cuales mesas estan ocupadas y cuantas están reservadas. Permitiendo modificar o cancelar de manera rápida las reservas
+- Requisitos no funcionales:
+* Rendimiento: El sistema debe ser rapido y asignar reservas sin demoras. También gestionar varias reservas al mismo tiempo sin que este colapse.
+* Facíl uso: La interfaz debe ser facíl de entender e intuitiva para el personal, en la cual los clientes puedan hacer sus reservas en pocos pasos.
+* Fiabilidad: El sistema debe ser confiable guardando los datos evitando la perdida de datos, tiene que estar disponible para su uso durante el horario de atención del restaurante
+* Seguridad: Los datos de los clientes deben estar para que sea unicamente utilizado por el personal autorizado, al igual que estos mismos deben estar cifrados para que sea accesible al personal autorizado y no a personas mal intencionadas.
+* Compatibilidad: El sistema debe tener la capacidad de poder ser utilizado en diferentes dispositivos y sitios webs, tiene que poder integrarse con otros sistemas del restaurante
+* Escalabilidad: El sistema debe poder crecer junto con el restaurante
 
-Describe los requisitos funcionales y no funcionales del software.
-*   Los requisitos funcionales definen las acciones específicas, comportamientos, y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
-*   Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad, y compatibilidad.
 `Ingresar la especificación de requisitos aquí`
 ## **7. Plan de proyecto**
 
