@@ -47,14 +47,13 @@
 </div>
 
 <br>
-# **Descripción del problema a solucionar - Gestión de Reservas en un Restaurantes**
+**Descripción del problema a solucionar -Software gestión turnos**
+
+La EPS PailaSalud está interesada en crear un programa para la gestión de turnos y atenciones a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben sentarse y esperando el servicio, sin otro tipo de atención o clasificada. Este procedimiento afecta el rendimiento del servicio y se realiza la atención.
+
+Para solucionar este problema de los estudiantes en grupos de más máximo tres integrantes, que sena en un programa que se encargue de gestionar las personas que llegan a la EPS, producto de las citas programadas que se dispone del servicio de la EPS. El software debe encargarse tanto de su llegada como de su recorrido por el sistema. El listado de las personas será proporcionado por un programa creado por la EPS (el docente entrega este programa para su uso) en un repositorio de GitHub sobre el que los estudiantes deben hacer un clon del repositorio y continuar con su proyecto desde este punto de partida
 
 
-Descripción del Problema: El restaurante “Delicias Gourmet” enfrenta problemas con la gestión de reservas y la asignación de mesas. Actualmente, el proceso se realiza manualmente, lo que provoca errores en la asignación de mesas, tiempos de espera prolongados y una experiencia insatisfactoria para los clientes. Además, no se tiene en cuenta la preferencia de los clientes habituales ni la capacidad del restaurante en tiempo real.
-Objetivo del Proyecto: Desarrollar un software que gestione las reservas y la asignación de mesas de manera eficiente. El programa debe permitir registrar las reservas, asignar mesas automáticamente según la disponibilidad y las preferencias de los clientes, y gestionar el flujo de clientes en el restaurante.
-
-# **El software del restaurante para las reservas**
-El restaurante la dolce vita, cuenta con un software que automatiza las funciones para asignar la mesa, esto con el fin de ahorrar tiempos de espera. Registrar de manera agil las reservas sin importar de donde provenga, asignar mesas dependiendo de la disponibilidad y preferencia del cliente y gestionar el flujo de los clientes en tiempo real.
 # **Objetivo**
 
 Crear un programa de consola visualmente amigable al usuario, en donde permita gestionar la atención de los pacientes y registrar los datos en un dataframe , para posteriormente exportar la atención en un archivo plano (CSV) usando Python y la gestión de dos documentos. Uno proporcionado por el repositorio inicial y otro creado por el estudiante para entregar una carpeta con los listados de pacientes.
@@ -86,11 +85,12 @@ Procedimientos (Entregables)
 
 ## **1.   Integrantes**
 Soy Jacobo Ávila, soy alguien que le gusta el gimnasio y compartir con mis amigos.
+Mariana Arévalo, soy una persona que le gusta emprender, conocer gente, y disfrutar de mis creaciones para mi emprendimiento
 ## **2.	Vínculos académicos y descripción**
 Jacobo Ávila (Ing. Industrial). Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bien común incluyendome, una de mis fortalezas es que puedo adptarme para trabajar en diferentes situaciones y personas.
+Mariana Arévalo (Ing. Industrial). Soy una persona que le gusta enfocarse en su trabajo y sus proyectos. Al igual que soy alguien sociable y muy alegre al tratar con mis amigos.
 ## **3.	Nombre del proyecto y detalles**
-<img alt="Dolce Vita" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Dolce%20vita.jpeg" hspace="20px" vspace="20px">
-El proyecto automatizará las reservas para un restuarante, con el fin de ahorrar tiempos de espera. Este proyecto será llamado Dolce Vita.
+El proyecto será llamado Salud vital EPS en el cual se gestionará los turnos de esta EPS, con el fin de optimizar la recopilacion de datos, y tambien la rapidez con la que se pueda agendar los turnos. Esto para que bajen considerablemente los tiempos de espera al igual que brindar una manera mas intuitiva y facíl de entregar el mejor servicio.
 
 ## **4. Licencia del software**
 
