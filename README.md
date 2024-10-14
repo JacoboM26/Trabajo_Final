@@ -98,6 +98,7 @@ El proyecto será llamado Salud vital EPS en el cual se gestionará los turnos d
 ## **4. Licencia del software**
 
 <p xmlns:cc="http://creativecommons.org/ns#" >Esta obra está licenciada bajo <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" <p>src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="altura:22px!importante;margen-izquierdo:3px;alineación-vertical:texto-inferior;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="altura:22px!importante;margen-izquierdo:3px;alineación-vertical:texto-inferior;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+
 ## **5. Reporte de visión**
 Descripción general del software:
 El Sistema de Gestión de Pacientes de SaludVital EPS ofrece una solución sencilla y eficiente para registrar, gestionar y atender pacientes en una pequeña clínica o consultorio. Está pensado para ser intuitivo y de fácil acceso, ideal para ser utilizado por profesionales de la salud que necesitan una herramienta rápida para gestionar el flujo de pacientes.
