@@ -84,11 +84,17 @@ Procedimientos (Entregables)
 >>*   En caso de desacuerdos o conflictos, el grupo deberá referirse al Acta de Colaboración para resolver la situación mediante los mecanismos previamente acordados. Si no se llega a una resolución, se consultará con el del curso para mediación.
 
 ## **1.   Integrantes**
+## **Jacobo Ávila**
 Soy Jacobo Ávila, soy alguien que le gusta el gimnasio y compartir con mis amigos.
-Mariana Arévalo, soy una persona que le gusta emprender, conocer gente, y disfrutar de mis creaciones para mi emprendimiento
+
+## **Mariana Arévalo**
+Soy Mariana Arévalo, me gusta la repostería y emprender.
+
 ## **2.	Vínculos académicos y descripción**
-Jacobo Ávila (Ing. Industrial). Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bien común incluyendome, una de mis fortalezas es que puedo adptarme para trabajar en diferentes situaciones y personas.
-Mariana Arévalo (Ing. Industrial). Soy una persona que le gusta enfocarse en su trabajo y sus proyectos. Al igual que soy alguien sociable y muy alegre al tratar con mis amigos.
+#### Jacobo Ávila (Ing. Industrial). 
+Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bien común incluyendome, una de mis fortalezas es que puedo adptarme para trabajar en diferentes situaciones y personas.
+#### Mariana Arévalo
+Soy una persona alegre y amante a compartir con las personas que aprecio, soy respetuosa y colaborativa, una de mis fortalezas es tener capacidad de resolución a las adversidades.
 ## **3.	Nombre del proyecto y detalles**
 El proyecto será llamado Salud vital EPS en el cual se gestionará los turnos de esta EPS, con el fin de optimizar la recopilacion de datos, y tambien la rapidez con la que se pueda agendar los turnos. Esto para que bajen considerablemente los tiempos de espera al igual que brindar una manera mas intuitiva y facíl de entregar el mejor servicio.
 
