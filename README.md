@@ -98,39 +98,112 @@ Definir la licencia con la cual registra el software. https://chooser-beta.creat
 
 `Ingresar la licencia a utilizar aquí`
 ## **5. Reporte de visión**
-
-Proporciona una descripción general del software, sus objetivos y beneficios.
-`Ingresar el reporte de visión aquí`
+Descripción general del software:
+El Sistema de Gestión de Pacientes de SaludVital EPS ofrece una solución sencilla y eficiente para registrar, gestionar y atender pacientes en una pequeña clínica o consultorio. Está pensado para ser intuitivo y de fácil acceso, ideal para ser utilizado por profesionales de la salud que necesitan una herramienta rápida para gestionar el flujo de pacientes.
+## Funcionalidades del Sistema:
+- Registro eficiente de pacientes
+- Exportación de datos.
+- Interfaz simple.
+- Priorización automatizada
 ## **6. Especificación de requisitos**
-- Requisitos funcionales:
-* Registrar las reservas: Los clientes deben contar con una interfaz sencilla de comprender para ingresar la información como; fecha, hora, nombre de la persona, numero de personas y su preferencia.
-* Automatización para la asignación de mesas: El software debe asignar mesas segun la disponibilidad y capacidad con la que cuente el restaurante, al igual que debe tener en cuenta las preferencias del cliente. Actualizar automaticamente el estado de las mesas (Libres u ocupadas)
-* Gestión de flujo de clientes: El software tendrá como misión verificar en tiempo real cuales mesas están libres u ocupadas. Además de avisar al personal de las próximas reservas o la preparación de las mesas.
-* Interfaz de usuario amigable: El personal deberá administrar las reservas y la asignación de mesas, a través de una pantalla facíl de usar. Mostrando cuales mesas estan ocupadas y cuantas están reservadas. Permitiendo modificar o cancelar de manera rápida las reservas
-- Requisitos no funcionales:
-* Rendimiento: El sistema debe ser rapido y asignar reservas sin demoras. También gestionar varias reservas al mismo tiempo sin que este colapse.
-* Facíl uso: La interfaz debe ser facíl de entender e intuitiva para el personal, en la cual los clientes puedan hacer sus reservas en pocos pasos.
-* Fiabilidad: El sistema debe ser confiable guardando los datos evitando la perdida de datos, tiene que estar disponible para su uso durante el horario de atención del restaurante
-* Seguridad: Los datos de los clientes deben estar para que sea unicamente utilizado por el personal autorizado, al igual que estos mismos deben estar cifrados para que sea accesible al personal autorizado y no a personas mal intencionadas.
-* Compatibilidad: El sistema debe tener la capacidad de poder ser utilizado en diferentes dispositivos y sitios webs, tiene que poder integrarse con otros sistemas del restaurante
-* Escalabilidad: El sistema debe poder crecer junto con el restaurante
+Los requisitos funcionales definen las acciones específicas, comportamientos y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
+Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad y compatibilidad.
 
-`Ingresar la especificación de requisitos aquí`
+## Requisitos funcionales:
+- Registro de Pacientes:
+El sistema debe permitir registrar nuevos pacientes ingresando los siguientes datos:
+
+    Nombre completo.
+    Edad.
+    Motivo de consulta.
+    Nivel de prioridad (1=alta, 2=media, 3=baja).
+
+El sistema debe asignar un número de turno único a cada paciente registrado.
+
+- Asignación de turnos:
+El sistema debe asignar automáticamente un turno único en función del orden de llegada, pero debe priorizar la atención de acuerdo con el nivel de prioridad asignado (1, 2, o 3).
+
+- Atención de Pacientes Prioritarios:
+El sistema debe permitir atender a los pacientes en función de su nivel de prioridad, comenzando con los de mayor prioridad (1) y, en caso de empate, atendiendo al que llegó primero (menor ID).
+
+- Interfaz amigable:
+El programa debe presentar una interfaz en consola fácil de usar para los administradores del sistema, que permita visualizar, buscar y gestionar las citas de forma intuitiva.
+
+
+## Requisitos no funcionales: 
+- Usabilidad:
+El sistema debe ser fácil de usar por cualquier persona del personal de la clínica, con una interfaz de consola clara e intuitiva.
+Las instrucciones deben ser explícitas, asegurando que no sea necesario tener conocimientos técnicos avanzados para operar el software.
+
+- Rendimiento:
+  El sistema debe ser capaz de manejar de manera eficiente hasta varios cientos de pacientes sin afectar el rendimiento.
+  Las operaciones de registro, atención y exportación de pacientes deben ejecutarse de manera rápida, con tiempos de respuesta inferiores a un segundo.
+  
+- Fiabilidad:
+   El sistema debe ser robusto ante errores comunes de usuario (como datos mal ingresados o pacientes duplicados)
+
+
+
 ## **7. Plan de proyecto**
 
-Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
-*   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
-*   ## **8.	Versionado del software**
+1. Planificación del Proyecto (6 horas)
 
-Describe las versiones del software y su avance cada que se realice un procedimiento relevante en días desde el inicio hasta la entrega final.
-## **9.	Algoritmo**
+    Definir los objetivos y alcance del proyecto.
+    Identificar y asignar tareas al equipo.
+    Establecer cronograma inicial.
 
-Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
-## **10.	Manual de usuario**
+2. Análisis de Requisitos (10 horas)
 
-Una carpeta en el repositorio en GitHub registrar el manual de uso del programa.
-# **GitHub**
-El líder del equipo debe crear una cuenta en GitHub y cargar los documentos previamente detallados en la entrega vincular a los compañeros en un repositorio compartido (Lo necesario para cargar en GitHub será explicado en clase).
-## **Fechas y documentos**
-*   Entrega 1: Para la primera entrega se debe enviar los puntos 1 a 7 --> Semana 8 (29 de septiembre).
-*   Entrega 2: Todo lo descrito en el presente documento. --> Semana 16
+    Revisión y documentación de los requisitos funcionales y no funcionales.
+    Definir la estructura de datos para el registro de pacientes y citas preexistentes.
+
+3. Diseño del Sistema (10 horas)
+
+    Diseño de la estructura del código y las clases.
+    Definir el flujo de trabajo del programa (interfaz de consola).
+    Crear un modelo de datos para las citas y pacientes.
+
+4. Desarrollo del Software (24 horas)
+
+    Implementar las funcionalidades principales:
+        Registro de pacientes.
+        Carga de citas preexistentes.
+        Asignación de turnos.
+        Atención priorizada de pacientes.
+        Exportación de pacientes atendidos.
+    Desarrollo del menú de consola.
+
+5. Pruebas y Depuración (8 horas)
+
+    Realizar pruebas unitarias y funcionales.
+    Depurar el código y solucionar errores.
+    Realizar pruebas de rendimiento y asegurar la estabilidad del sistema.
+
+6. Documentación (6 horas)
+
+    Documentar el código del software.
+    Redactar manual de usuario y guía de instalación.
+
+7. Presentación Final del Proyecto (4 horas)
+
+    Preparar la presentación del proyecto.
+    Realizar demostraciones del software.
+    Revisión final del informe y entrega de archivos.
+
+Cronograma (Diagrama de Gantt)
+
+El desarrollo del proyecto se llevará a cabo durante un período estimado de 4 semanas. A continuación se muestra el cronograma propuesto con la distribución de las actividades a lo largo del tiempo:
+Actividad	Semana 1	Semana 2	Semana 3	Semana 4
+1. Planificación	X			
+2. Análisis de Requisitos	X	X		
+3. Diseño del Sistema		X		
+4. Desarrollo del Software		X	X	
+5. Pruebas y Depuración			X	
+6. Documentación				X
+7. Presentación Final				X
+Presupuesto del Proyecto
+
+Dado que el grupo está compuesto por 2 estudiantes y se estima una inversión total de 68 horas en el proyecto (sumando las horas de todas las actividades), a continuación se muestra el desglose de horas por estudiante y el valor equivalente basado en el Salario Mínimo Mensual Legal Vigente (SMLV).
+Horas Totales del Proyecto
+
+    Total de horas: 68 horas.
