@@ -36,10 +36,6 @@
 </p>
 
 <div align="right">
-<h2> <b> Por: Julián Andrés Castillo G. </b> </h2>
-<a href="mailto:jandres.castillo@udea.edu.co"> ✉ Julian Andres Castillo Grisales </a>
-<h2> <b> Por: Yony Fernando Ceballos. </b> </h2>
-<a href="mailto:yony.ceballos@udea.edu.co"> ✉ Yony Fernando Ceballos </a>
   <h2> <b> Por: Jacobo Avila. </b> </h2>
   <a href="mailto:jacobo.avila@udea.edu.co"> ✉ Jacobo Avila </a>
     <h2> <b> Por: Mariana Arevalo. </b> </h2>
@@ -49,7 +45,7 @@
 <br>
 **Descripción del problema a solucionar -Software gestión turnos**
 
-La EPS PailaSalud está interesada en crear un programa para la gestión de turnos y atenciones a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben sentarse y esperando el servicio, sin otro tipo de atención o clasificada. Este procedimiento afecta el rendimiento del servicio y se realiza la atención.
+La EPS Salud Vital está interesada en crear un programa para la gestión de turnos y atenciones a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben sentarse y esperando el servicio, sin otro tipo de atención o clasificada. Este procedimiento afecta el rendimiento del servicio y se realiza la atención.
 
 Para solucionar este problema de los estudiantes en grupos de más máximo tres integrantes, que sena en un programa que se encargue de gestionar las personas que llegan a la EPS, producto de las citas programadas que se dispone del servicio de la EPS. El software debe encargarse tanto de su llegada como de su recorrido por el sistema. El listado de las personas será proporcionado por un programa creado por la EPS (el docente entrega este programa para su uso) en un repositorio de GitHub sobre el que los estudiantes deben hacer un clon del repositorio y continuar con su proyecto desde este punto de partida
 
@@ -100,9 +96,7 @@ El proyecto será llamado Salud vital EPS en el cual se gestionará los turnos d
 
 ## **4. Licencia del software**
 
-Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
-
-`Ingresar la licencia a utilizar aquí`
+<p xmlns:cc="http://creativecommons.org/ns#" >Esta obra está licenciada bajo <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" <p>src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="altura:22px!importante;margen-izquierdo:3px;alineación-vertical:texto-inferior;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="altura:22px!importante;margen-izquierdo:3px;alineación-vertical:texto-inferior;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 ## **5. Reporte de visión**
 Descripción general del software:
 El Sistema de Gestión de Pacientes de SaludVital EPS ofrece una solución sencilla y eficiente para registrar, gestionar y atender pacientes en una pequeña clínica o consultorio. Está pensado para ser intuitivo y de fácil acceso, ideal para ser utilizado por profesionales de la salud que necesitan una herramienta rápida para gestionar el flujo de pacientes.
