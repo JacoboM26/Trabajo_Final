@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Goku" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Goku.png" hspace="20px" vspace="0px">
+                <img alt="salud" height="300px" src="(https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Salud%20vital.jpg)" hspace="20px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
@@ -92,7 +92,7 @@ Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bi
 #### Mariana Arévalo
 Soy una persona alegre y amante a compartir con las personas que aprecio, soy respetuosa y colaborativa, una de mis fortalezas es tener capacidad de resolución a las adversidades.
 ## **3.	Nombre del proyecto y detalles**
- <img alt="Goku" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Salud%20vital.jpg" hspace="20px" vspace="0px">
+ <img alt="Salud" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Salud%20vital.jpg" hspace="20px" vspace="0px">
 El proyecto será llamado Salud vital EPS en el cual se gestionará los turnos de esta EPS, con el fin de optimizar la recopilacion de datos, y tambien la rapidez con la que se pueda agendar los turnos. Esto para que bajen considerablemente los tiempos de espera al igual que brindar una manera mas intuitiva y facíl de entregar el mejor servicio.
 
 ## **4. Licencia del software**
