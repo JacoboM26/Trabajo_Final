@@ -201,7 +201,7 @@ Cronograma (Diagrama de Gantt)
 El desarrollo del proyecto se llevará a cabo durante un período estimado de 4 semanas. A continuación se muestra el cronograma propuesto con la distribución de las actividades a lo largo del tiempo:
  <img alt="Gant" height="350px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Gant%20.png" hspace="20px" vspace="0px">
 
-Dado que el grupo está compuesto por 2 estudiantes y se estima una inversión total de 68 horas en el proyecto (sumando las horas de todas las actividades), a continuación se muestra el desglose de horas por estudiante y el valor equivalente basado en el Salario Mínimo Mensual Legal Vigente (SMLV).
-Horas Totales del Proyecto
-
-    Total de horas: 68 horas.
+### **Horas de formación**
+Dado que el grupo está compuesto por dos estudiantes y se estima una inversión total de 68 horas en el proyecto (sumando las horas de todas las actividades).
+- El presupuesto del proyecto, en términos de valor de tiempo de práctica profesional, es de 493,000 COP.
+- Este valor no será pagado en dinero, sino que representará el tiempo de práctica equivalente que los estudiantes dedicarán al proyecto, siendo el equivalente a 68 horas en total para los tres estudiantes.
