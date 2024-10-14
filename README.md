@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="salud" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Salud%20vital.jpg" hspace="20px" vspace="0px">
+                <img alt="salud" height="290px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Salud%20vital.jpg" hspace="20px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
