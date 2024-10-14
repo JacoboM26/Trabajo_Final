@@ -199,7 +199,7 @@ Las instrucciones deben ser explícitas, asegurando que no sea necesario tener c
 Cronograma (Diagrama de Gantt)
 
 El desarrollo del proyecto se llevará a cabo durante un período estimado de 4 semanas. A continuación se muestra el cronograma propuesto con la distribución de las actividades a lo largo del tiempo:
- <img alt="Gant" height="600px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Gant%20.png" hspace="20px" vspace="0px">
+ <img alt="Gant" height="350px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Gant%20.png" hspace="20px" vspace="0px">
 
 Dado que el grupo está compuesto por 2 estudiantes y se estima una inversión total de 68 horas en el proyecto (sumando las horas de todas las actividades), a continuación se muestra el desglose de horas por estudiante y el valor equivalente basado en el Salario Mínimo Mensual Legal Vigente (SMLV).
 Horas Totales del Proyecto
