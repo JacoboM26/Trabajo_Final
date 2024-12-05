@@ -196,3 +196,30 @@ El desarrollo del proyecto se llevará a cabo durante un período estimado de 4 
 Dado que el grupo está compuesto por dos estudiantes y se estima una inversión total de 68 horas en el proyecto (sumando las horas de todas las actividades).
 - El presupuesto del proyecto, en términos de valor de tiempo de práctica profesional, es de 493,000 COP.
 - Este valor no será pagado en dinero, sino que representará el tiempo de práctica equivalente que los estudiantes dedicarán al proyecto, siendo el equivalente a 68 horas en total para los dos estudiantes.
+
+## 8. Plan de versionado
+Describe las versiones del software y su avance cada que se realice un procedimiento relevante en
+días desde el inicio hasta la entrega final.
+1. Fueron agregados el menú principal y menú del administrador.
+2. Le brindamos un menu con opciones al admin, en el que puede generar reportes, agregar y modificar citas, al igual que añadir eventos.
+3. Utilizamos la libreria Random, para crear cédulas ficticias y mejorar la organización de la citas.
+4. Tambien fue añadido al para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
+5. Añadimos una fecha asignada para la cita de cada usuario, la cual es ingresada manuealmente por el administrador.
+6. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
+## **9.	Algoritmo**
+Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
+El algoritmo empieza con dos diccionarios, "citas" y "usuarios" los cuales van guardando la información ingresada para luego ser utilizada. Y tambien la contraseña con la que el Admin tiene acceso a su menú.
+Se hizo una funcion con la libreria random "Generar cita aleatoria", la cual se encarga de crear cedulas y fechas fictias, adicional asigna el estado de la cita.
+Se utiliza una función la cual se llama "menú principal" en este se dan diferentes opciones, como es "Consultar cita", "Administrador" y "Salir".
+Luego tenemos otra función llamada "Consultar cita", esta al ingresar la cedula de la persona, se le brinda toda la informacion que se tenga acerca de la cita como la fecha, hora y estado, de lo contrario le retorna "No hay cita registrada para su cédula".
+Sigue una de las funciones mas importantes la del "Administrador" en la cual tenemos diferentes opciones como lo son "Agregar usuario y cita", "Confirmar o cancelar cita", "Generar reporte", "Añadir evento", y "Salir al menu principal", digo que es el más importante ya que el puede generar un reporte para ver todos las citas con sus respectivas citas, al igual que puede manipular las citas y usuarios del sistema.
+Despues tenemos cuatro funciones que se llaman: 
+1. "Agregar usuario y cita" En esta el admin puede agregar un usuario nuevo, claramente ingresando los datos en un orden determinado para que no tengamos errores.
+2. "Modificar cita" Se puede cambiar su fecha u hora, su estado o directamente que la cita sea cancelada.
+3. "Generar reporte" en esta función son impresos todos los items de las citas que se tengan hasta ese determinado momento
+4. "Añadir evento" Se agrega un evento para determinada cedula (usuario).
+Estas son funciones fundamentales para el correcto funcionamiento de la función del "Administrador" sin ellas el admin perdería su poder.
+Y finaliza con el retorno al "Menu principal" en caso tal que el usuario aun no haya salido de este.
+## **10. Manual de usuario**
+
+Una carpeta en el repositorio en GitHub registrar el manual de uso del programa.
