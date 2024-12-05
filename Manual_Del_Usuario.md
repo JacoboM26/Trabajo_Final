@@ -45,6 +45,6 @@ Estado: pendiente
 2. Confirmar una Cita:
 - Administrador ingresa al menú, selecciona la opción 2, e introduce la cédula del paciente:
 Cita confirmada.
-- Adicionalmente: 
+3. Adicionalmente: 
 - Los datos se gestionan en memoria, por lo que no persisten después de cerrar el programa.
 - La contraseña del administrador predeterminada es admin123.
