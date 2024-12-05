@@ -201,11 +201,11 @@ Dado que el grupo está compuesto por dos estudiantes y se estima una inversión
 Describe las versiones del software y su avance cada que se realice un procedimiento relevante en
 días desde el inicio hasta la entrega final.
 1. Fueron agregados el menú principal y menú del administrador.
-2. Le brindamos un menu con opciones al admin, en el que puede generar reportes, agregar y modificar citas, al igual que añadir eventos.
-3. Utilizamos la libreria Random, para crear cédulas ficticias y mejorar la organización de la citas.
-4. Tambien fue añadido al para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
-5. Añadimos una fecha asignada para la cita de cada usuario, la cual es ingresada manuealmente por el administrador.
-6. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
+3. Le brindamos un menu con opciones al admin, en el que puede generar reportes, agregar y modificar citas, al igual que añadir eventos.
+4. Utilizamos la libreria Random, para crear cédulas ficticias y mejorar la organización de la citas.
+5. Tambien fue añadido al para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
+6. Añadimos una fecha asignada para la cita de cada usuario, la cual es ingresada manuealmente por el administrador.
+7. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
 ## **9.	Algoritmo**
 Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
 El algoritmo empieza con dos diccionarios, "citas" y "usuarios" los cuales van guardando la información ingresada para luego ser utilizada. Y tambien la contraseña con la que el Admin tiene acceso a su menú.
