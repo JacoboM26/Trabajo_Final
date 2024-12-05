@@ -1,4 +1,4 @@
-##** Manual de Usuario del Sistema de Gestión EPS.
+## Manual de Usuario del Sistema de Gestión EPS.
 - Introducción.
 El sistema de gestión EPS permite administrar citas médicas y registrar eventos asociados a los pacientes. Este software tiene dos modos principales:
 
