@@ -201,7 +201,7 @@ Dado que el grupo está compuesto por dos estudiantes y se estima una inversión
 Describe las versiones del software y su avance cada que se realice un procedimiento relevante en
 días desde el inicio hasta la entrega final.
 1. Fuero añadidos el menú principal y menu del administrador.
-2. Se crearon unos diccionarios para almancenar la información existente y la nueva al ser ingresada.
+2.Se añadieron unos diccionarios para almancenar la información existente y la nueva al ser ingresada.
 3. Se añadió una contraseña para el admin
 4. Le brindamos un menú con opciones al admin, en el que puede generar reportes, agregar y modificar citas, al igual que añadir eventos.
 5. Utilizamos la libreria Random, para crear cédulas ficticias y mejorar la organización de la citas.
