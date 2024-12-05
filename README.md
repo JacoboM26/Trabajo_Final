@@ -214,11 +214,11 @@ Una carpeta en el repositorio en GitHub con todos los archivos y código utiliza
 - Se hizo una funcion con la libreria random "Generar cita aleatoria", la cual se encarga de crear cedulas y fechas fictias, adicional asigna el estado de la cita.
 - Se utiliza una función la cual se llama "menú principal" en este se dan diferentes opciones, como es "Consultar cita", "Administrador" y "Salir".
 - Luego tenemos otra función llamada "Consultar cita", esta al ingresar la cedula de la persona, se le brinda toda la informacion que se tenga acerca de la cita como la fecha, hora y estado, de lo contrario le retorna  "No hay cita registrada para su cédula".
-- Sigue una de las funciones mas importantes la del "Administrador" en la cual tenemos diferentes opciones como lo son "Agregar usuario y cita", "Confirmar o cancelar cita", "Generar reporte", "Añadir evento", y         "Salir al menu principal", digo que es el más importante ya que el puede generar un reporte para ver todos las citas con sus respectivas citas, al igual que puede manipular las citas y usuarios del sistema.
+- Sigue una de las funciones mas importantes la del "Administrador" en la cual tenemos diferentes opciones como lo son "Agregar usuario y cita", "Confirmar o cancelar cita", "Generar reporte", "Añadir evento", y         "Salir al menu principal", digo que es el más importante debido a que puede generar un reporte para ver todos las citas con sus respectivas citas, al igual que puede manipular las citas y usuarios del sistema.
 - Despues tenemos cuatro funciones que se llaman: 
 1. "Agregar usuario y cita" En esta el admin puede agregar un usuario nuevo, claramente ingresando los datos en un orden determinado para que no tengamos errores.
 2. "Modificar cita" Se puede cambiar su fecha u hora, su estado o directamente que la cita sea cancelada.
-3. "Generar reporte" en esta función son impresos todos los items de las citas que se tengan hasta ese determinado momento
+3. "Generar reporte" en esta función son impresos todos los items de las citas que se tengan hasta ese determinado momento.
 4. "Añadir evento" Se agrega un evento para determinada cedula (usuario).
 Estas son funciones fundamentales para el correcto funcionamiento de la función del "Administrador" sin ellas el admin perdería su poder.
 - Y finaliza con el retorno al "Menu principal" en caso tal que el usuario aun no haya salido de este.
