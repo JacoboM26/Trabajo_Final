@@ -93,7 +93,7 @@ Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bi
 Soy una persona alegre y amante a compartir con las personas que aprecio, soy respetuosa y colaborativa, una de mis fortalezas es tener capacidad de resolución a las adversidades.
 ## **3.	Nombre del proyecto y detalles**
  <img alt="Salud" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Salud%20vital.jpg" hspace="20px" vspace="0px">
-El proyecto será llamado Salud vital EPS en el cual se gestionará los turnos de esta EPS, con el fin de optimizar la recopilacion de datos, y tambien la rapidez con la que se pueda agendar los turnos. Esto para que bajen considerablemente los tiempos de espera al igual que brindar una manera mas intuitiva y facíl de entregar el mejor servicio.
+El proyecto será llamado Salud vital EPS, el cual trata de la administración de turnos en un hospital, con el objetivo de maximizar los tiempos y los recursos requeridos para garantizar una mayor calidad en el cuidado de los pacientes, proporcionándoles información precisa sobre su cita.
 
 ## **4. Licencia del software**
 
@@ -101,51 +101,46 @@ El proyecto será llamado Salud vital EPS en el cual se gestionará los turnos d
 
 ## **5. Reporte de visión**
 Descripción general del software:
-El Sistema de Gestión de Pacientes de SaludVital EPS ofrece una solución sencilla y eficiente para registrar, gestionar y atender pacientes en una pequeña clínica o consultorio. Está pensado para ser intuitivo y de fácil acceso, ideal para ser utilizado por profesionales de la salud que necesitan una herramienta rápida para gestionar el flujo de pacientes.
-## Funcionalidades del Sistema:
-- Registro eficiente de pacientes
-- Exportación de datos.
-- Interfaz simple.
-- Priorización automatizada
+El programa que se implementará representará una solución para administrar eficazmente el cuidado de los pacientes, ya que en la actualidad, el procedimiento es manual, lo que provoca horas de espera y una deficiente calidad de atención para los pacientes. El propósito de este software será optimizar la organización y distribución de turnos, lo que facilitará una atención más fluida, priorizada y organizada. El software operará en la consola. Mediante esta, se administrará la llegada de los pacientes, su registro en un sistema que sigue su trayectoria a lo largo del proceso de atención, desde su entrada hasta su partida, y se empleará la información suministrada por un sistema de citas ya establecido.
+## Objetivos del Sistema:
+- Implementar la automatización del proceso de gestión de citas.
+- Manejo eficaz de los turnos.
+- Importar datos.
+- Incorporar al sistema ya existente.
+## Beneficios del software
+- Disminución de los periodos de espera.
+- Experiencia superior para los pacientes.
+- Potenciación del equipo médico.
+- Acceso a información histórica.
 ## **6. Especificación de requisitos**
-Los requisitos funcionales definen las acciones específicas, comportamientos y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
-Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad y compatibilidad.
-
+- Los requisitos funcionales establecen las acciones concretas, comportamientos y operaciones que el software debe llevar a cabo para cumplir con las demandas del usuario final.
+- Los requisitos no funcionales definen criterios que se pueden aplicar para evaluar el funcionamiento del sistema, más allá de las conductas particulares. Esto abarca elementos como el desempeño, la seguridad, la facilidad de uso, la confiabilidad y la compatibilidad.
 ## Requisitos funcionales:
-- Registro de Pacientes:
-El sistema debe permitir registrar nuevos pacientes ingresando los siguientes datos:
+1. administrar citas y datos personales:
+- El sistema necesita obtener la lista de pacientes producida por el programa.
+- El programa tiene que documentar la llegada de los pacientes, asignándoles un turno en función del tipo de cita, el doctor a disposición y la urgencia del caso.
+2. Exportación de datos:
+- El sistema debe permitir la exportación de los datos de atención en un archivo, incluyendo detalles como la fecha, nombre del paciente, médico, y estado de la atención.
 
-    Nombre completo.
-    Edad.
-    Motivo de consulta.
-    Nivel de prioridad (1=alta, 2=media, 3=baja).
+3. Registro de atención:
+- El sistema tiene la obligación de monitorear y actualizar el estado de cuidado del paciente conforme progresa en el proceso.
+- Debe posibilitar el reconocimiento de la lista de pacientes en espera, organizada por orden de prioridad o fecha de llegada.
 
-El sistema debe asignar un número de turno único a cada paciente registrado.
-
-- Asignación de turnos:
-El sistema debe asignar automáticamente un turno único en función del orden de llegada, pero debe priorizar la atención de acuerdo con el nivel de prioridad asignado (1, 2, o 3).
-
-- Atención de Pacientes Prioritarios:
-El sistema debe permitir atender a los pacientes en función de su nivel de prioridad, comenzando con los de mayor prioridad (1) y, en caso de empate, atendiendo al que llegó primero (menor ID).
-
-- Interfaz amigable:
+4. Interfaz amigable:
 El programa debe presentar una interfaz en consola fácil de usar para los administradores del sistema, que permita visualizar, buscar y gestionar las citas de forma intuitiva.
 
 
 ## Requisitos no funcionales: 
-- Usabilidad:
-El sistema debe ser fácil de usar por cualquier persona del personal de la clínica, con una interfaz de consola clara e intuitiva.
-Las instrucciones deben ser explícitas, asegurando que no sea necesario tener conocimientos técnicos avanzados para operar el software.
-
-- Rendimiento:
-  El sistema debe ser capaz de manejar de manera eficiente hasta varios cientos de pacientes sin afectar el rendimiento.
-  Las operaciones de registro, atención y exportación de pacientes deben ejecutarse de manera rápida, con tiempos de respuesta inferiores a un segundo.
-  
-- Fiabilidad:
-   El sistema debe ser robusto ante errores comunes de usuario (como datos mal ingresados o pacientes duplicados)
-
-
-
+1. Resultados:
+-El programa tiene que manejar y exhibir las listas de pacientes sin demoras importantes, incluso cuando se gestione una amplia base de datos.
+2. Aplicabilidad:
+- Los mensajes de error deben ser específicos, orientando al usuario a resolver cualquier inconveniente que surja al programar una cita o durante su transcurso.
+3. Conexión:
+- Es imprescindible que el software sea compatible con diversos sistemas operativos que respalden Python.
+4. Fiabilidad:
+- El sistema tiene que documentar adecuadamente los datos de entrada, atención y exportación, evitando la pérdida de información o la corrupción de los datos durante su operación.
+5. Protección:
+- El software asegura que la información exportada no sea manejada sin permiso y que los archivos creados estén resguardados de alteraciones no deseadas.
 ## **7. Plan de proyecto**
 
 1. Planificación del Proyecto (6 horas)
@@ -200,4 +195,4 @@ El desarrollo del proyecto se llevará a cabo durante un período estimado de 4 
 ### **Horas de formación**
 Dado que el grupo está compuesto por dos estudiantes y se estima una inversión total de 68 horas en el proyecto (sumando las horas de todas las actividades).
 - El presupuesto del proyecto, en términos de valor de tiempo de práctica profesional, es de 493,000 COP.
-- Este valor no será pagado en dinero, sino que representará el tiempo de práctica equivalente que los estudiantes dedicarán al proyecto, siendo el equivalente a 68 horas en total para los tres estudiantes.
+- Este valor no será pagado en dinero, sino que representará el tiempo de práctica equivalente que los estudiantes dedicarán al proyecto, siendo el equivalente a 68 horas en total para los dos estudiantes.
