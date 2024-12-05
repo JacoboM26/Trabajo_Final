@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt=>
+                <img alt=https://raw.githubusercontent.com/JacoboM26/Trabajo_Final/refs/heads/main/Recursos/Hospital.avif hspace="0px" vspace="0px">>
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
