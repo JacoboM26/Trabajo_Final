@@ -210,8 +210,9 @@ días desde el inicio hasta la entrega final.
 8. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
 ## **9.	Algoritmo**
 Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
-- El algoritmo empieza con dos diccionarios, "citas" y "usuarios" los cuales van guardando la información ingresada para luego ser utilizada. Y tambien la contraseña con la que el Admin tiene acceso a su menú.
-- Se hizo una funcion con la libreria random "Generar cita aleatoria", la cual se encarga de crear cedulas y fechas fictias, adicional asigna el estado de la cita.
+- El algoritmo empieza con dos diccionarios "citas" y "usuarios", los cuales van guardando la información ingresada para luego ser utilizada.
+- Se puso una contraseña con la que el Admin tiene acceso a su menú.
+- Se hizo una funcion en la que se utiliza la libreria random llamada "Generar cita aleatoria" la cual se encarga de crear cedulas y fechas fictias, adicional asigna el estado de la cita.
 - Se utiliza una función la cual se llama "menú principal" en este se dan diferentes opciones, como es "Consultar cita", "Administrador" y "Salir".
 - Luego tenemos otra función llamada "Consultar cita", esta al ingresar la cedula de la persona, se le brinda toda la informacion que se tenga acerca de la cita como la fecha, hora y estado, de lo contrario le retorna  "No hay cita registrada para su cédula".
 - Sigue una de las funciones mas importantes la del "Administrador" en la cual tenemos diferentes opciones como lo son "Agregar usuario y cita", "Confirmar o cancelar cita", "Generar reporte", "Añadir evento", y         "Salir al menu principal", digo que es el más importante debido a que puede generar un reporte para ver todos las citas con sus respectivas citas, al igual que puede manipular las citas y usuarios del sistema.
