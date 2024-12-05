@@ -203,18 +203,18 @@ días desde el inicio hasta la entrega final.
 2. Se añadieron unos diccionarios para almancenar la información existente y la nueva al ser ingresada.
 3. Se añadió una contraseña para el admin.
 4. Le brindamos un menú con opciones al admin, en el que puede generar reportes, agregar y modificar citas, al igual que añadir eventos.
-5. Utilizamos la libreria Random, para crear cédulas ficticias y mejorar la organización de la citas.
-6. Tambien fue añadido para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
-7. Añadimos una fecha asignada para la cita de cada usuario, la cual es ingresada manuealmente por el administrador.
-8. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
+5. Utilizamos la libreria Random, para crear cédulas ficticias la fecha y hora de las citas.
+6. Tambien fue añadido un menú para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
+7. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
 ## **9.	Algoritmo**
 Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
 - El algoritmo empieza con dos diccionarios "citas" y "usuarios", los cuales van guardando la información ingresada para luego ser utilizada.
 - Se puso una contraseña con la que el Admin tiene acceso a su menú.
 - Se hizo una funcion en la que se utiliza la libreria random llamada "Generar cita aleatoria" la cual se encarga de crear cedulas y fechas fictias, adicional asigna el estado de la cita.
-- Se utiliza una función la cual se llama "menú principal" en este se dan diferentes opciones, como es "Consultar cita", "Administrador" y "Salir".
+- Se utiliza una función la cual se llama "menú principal" en este se dan diferentes opciones, como es "Consultar cita", "Administrador", "Confirmar o cancelar cita" y "Salir".
+- Tenemos una funcion llamada "Cancelar o confirmar cita usuario", esta es más que todo utilizada para que el usuario tenga acceso al estado de su cita y poder modificar el mismo.
 - Luego tenemos otra función llamada "Consultar cita", esta al ingresar la cedula de la persona, se le brinda toda la informacion que se tenga acerca de la cita como la fecha, hora y estado, de lo contrario le retorna  "No hay cita registrada para su cédula".
-- Sigue una de las funciones mas importantes la del "Administrador" en la cual tenemos diferentes opciones como lo son "Agregar usuario y cita", "Confirmar o cancelar cita", "Generar reporte", "Añadir evento", y         "Salir al menu principal", digo que es el más importante debido a que puede generar un reporte para ver todos las citas con sus respectivas citas, al igual que puede manipular las citas y usuarios del sistema.
+- Sigue una de las funciones mas importantes la del "Administrador" en la cual tenemos diferentes opciones como lo son "Agregar usuario y cita", "Confirmar o cancelar cita", "Generar reporte", "Añadir evento", y "Salir", digo que es el más importante debido a que puede generar un reporte para ver todos las citas con sus respectivos items, al igual que puede manipular las citas y usuarios del sistema.
 - Despues tenemos cuatro funciones que se llaman: 
 1. "Agregar usuario y cita" En esta el admin puede agregar un usuario nuevo, claramente ingresando los datos en un orden determinado para que no tengamos errores.
 2. "Modificar cita" Se puede cambiar su fecha u hora, su estado o directamente que la cita sea cancelada.
