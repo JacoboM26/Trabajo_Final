@@ -10,30 +10,30 @@
 - Conexión a internet no es necesaria, ya que el programa funciona de manera local.
 
 ## Guía de Uso
-- Menú Principal:
+1. Menú Principal:
 - Consultar Cita: Permite ingresar una cédula para revisar si existe una cita registrada.
 - Ingresar cédula: El sistema mostrará la información de la cita, si existe.
 
-- Menú Administrador:
+2. Menú Administrador:
 - Requiere una contraseña (admin123). Una vez autenticado, se accede a las funciones administrativas.
 
-- Salir:
+3. Salir:
 - Finaliza el programa.
 
 ## Funciones del Administrador
-- Agregar Usuario y Cita:
-Permite registrar un nuevo paciente y asignar una cita.
-- Ingresar cédula.
-- Especificar fecha (YYYY-MM-DD) y hora (HH:MM).
-- Confirmar o Cancelar Cita:
-Permite actualizar el estado de una cita existente.
-- Ingresar cédula.
-- Seleccionar una acción: confirmar o cancelar.
-- Generar Reporte:
-Muestra un listado de todas las citas registradas y los eventos asociados a cada paciente.
-- Añadir Evento:
-Permite registrar un evento relacionado con un paciente.
-- Ingresar cédula y descripción del evento.
+1. Agregar Usuario y Cita:
+- Permite registrar un nuevo paciente y asignar una cita.
+  Ingresar cédula.
+  Especificar fecha (YYYY-MM-DD) y hora (HH:MM).
+2. Confirmar o Cancelar Cita:
+- Permite actualizar el estado de una cita existente.
+  Ingresar cédula.
+  Seleccionar una acción: confirmar o cancelar.
+3. Generar Reporte:
+- Muestra un listado de todas las citas registradas y los eventos asociados a cada paciente.
+4. Añadir Evento:
+- Permite registrar un evento relacionado con un paciente.
+  Ingresar cédula y descripción del evento.
 ## Ejemplo de Uso
 1. Consultar Cita:
 Usuario ingresa su cédula: 12345678.
