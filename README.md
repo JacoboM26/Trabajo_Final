@@ -92,7 +92,7 @@ Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bi
 #### Mariana Arévalo
 Soy una persona alegre y amante a compartir con las personas que aprecio, soy respetuosa y colaborativa, una de mis fortalezas es tener capacidad de resolución a las adversidades.
 ## **3.	Nombre del proyecto y detalles**
-El proyecto será llamado Agendapp, el cual trata de la administración de turnos en un hospital, con el objetivo de maximizar los tiempos y los recursos requeridos para garantizar una mayor calidad en el cuidado de los pacientes, proporcionándoles información precisa sobre su cita.
+El proyecto será llamado AgendApp, el cual trata de la administración de turnos en un hospital, con el objetivo de maximizar los tiempos y los recursos requeridos para garantizar una mayor calidad en el cuidado de los pacientes, proporcionándoles información precisa sobre su cita.
 
 ## **4. Licencia del software**
 
