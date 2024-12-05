@@ -45,7 +45,7 @@
 <br>
 **Descripción del problema a solucionar -Software gestión turnos**
 
-La EPS Salud Vital está interesada en crear un programa para la gestión de turnos y atenciones a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben sentarse y esperando el servicio, sin otro tipo de atención o clasificada. Este procedimiento afecta el rendimiento del servicio y se realiza la atención.
+La EPS Paila Salud está interesada en crear un programa para la gestión de turnos y atenciones a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben sentarse y esperando el servicio, sin otro tipo de atención o clasificada. Este procedimiento afecta el rendimiento del servicio y se realiza la atención.
 
 Para solucionar este problema de los estudiantes en grupos de más máximo tres integrantes, que sena en un programa que se encargue de gestionar las personas que llegan a la EPS, producto de las citas programadas que se dispone del servicio de la EPS. El software debe encargarse tanto de su llegada como de su recorrido por el sistema. El listado de las personas será proporcionado por un programa creado por la EPS (el docente entrega este programa para su uso) en un repositorio de GitHub sobre el que los estudiantes deben hacer un clon del repositorio y continuar con su proyecto desde este punto de partida
 
@@ -92,8 +92,7 @@ Soy una persona honesta y que le gusta el trabajo en equipo, busco siempre el bi
 #### Mariana Arévalo
 Soy una persona alegre y amante a compartir con las personas que aprecio, soy respetuosa y colaborativa, una de mis fortalezas es tener capacidad de resolución a las adversidades.
 ## **3.	Nombre del proyecto y detalles**
- <img alt="Salud" height="300px" src="https://raw.githubusercontent.com/JacoboM26/ideal-pancake/refs/heads/main/images/Salud%20vital.jpg" hspace="20px" vspace="0px">
-El proyecto será llamado Salud vital EPS, el cual trata de la administración de turnos en un hospital, con el objetivo de maximizar los tiempos y los recursos requeridos para garantizar una mayor calidad en el cuidado de los pacientes, proporcionándoles información precisa sobre su cita.
+El proyecto será llamado Agendapp, el cual trata de la administración de turnos en un hospital, con el objetivo de maximizar los tiempos y los recursos requeridos para garantizar una mayor calidad en el cuidado de los pacientes, proporcionándoles información precisa sobre su cita.
 
 ## **4. Licencia del software**
 
@@ -205,7 +204,7 @@ días desde el inicio hasta la entrega final.
 3. Se añadió una contraseña para el admin.
 4. Le brindamos un menú con opciones al admin, en el que puede generar reportes, agregar y modificar citas, al igual que añadir eventos.
 5. Utilizamos la libreria Random, para crear cédulas ficticias y mejorar la organización de la citas.
-6. Tambien fue añadido al para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
+6. Tambien fue añadido para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
 7. Añadimos una fecha asignada para la cita de cada usuario, la cual es ingresada manuealmente por el administrador.
 8. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
 ## **9.	Algoritmo**
