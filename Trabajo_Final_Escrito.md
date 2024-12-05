@@ -204,14 +204,16 @@ días desde el inicio hasta la entrega final.
 2. Se añadieron unos diccionarios para almancenar la información existente y la nueva al ser ingresada.
 3. Se añadió una contraseña para el admin.
 4. Le brindamos un menú con opciones al admin, en el que puede generar reportes, agregar y modificar citas, al igual que añadir eventos.
-5. Utilizamos la libreria Random, para crear cédulas ficticias la fecha y hora de las citas.
+5. Utilizamos la libreria Random, para crear cédulas ficticias y hora de las citas. Y también se agregó en la función dos lineas de codigo para que nos brinde la fecha de "hoy".
 6. Tambien fue añadido un menú para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
 7. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
+8. Se agregaron las funciones de "cargar citas" y "Guardar citas".
 ## **9.	Algoritmo**
 Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
 - El algoritmo empieza con dos diccionarios "citas" y "usuarios", los cuales van guardando la información ingresada para luego ser utilizada.
 - Se puso una contraseña con la que el Admin tiene acceso a su menú.
-- Se hizo una funcion en la que se utiliza la libreria random llamada "Generar cita aleatoria" la cual se encarga de crear cedulas y fechas fictias, adicional asigna el estado de la cita.
+- Se hizo una funcion en la que se utiliza la libreria random llamada "Generar cita aleatoria" la cual se encarga de crear cedulas y horas fictias, adicional asigna el estado de la cita y también la fecha del día de "hoy".
+- Se añadieron las funciones de "cargar citas" y "Guardar citas" con las cuales podremos utilizar datos de sesiones anteriores, ya que cada vez que se ejecutaba el código se perdía la información de las sesiones anteriores.
 - Se utiliza una función la cual se llama "menú principal" en este se dan diferentes opciones, como es "Consultar cita", "Administrador", "Confirmar o cancelar cita" y "Salir".
 - Tenemos una funcion llamada "Cancelar o confirmar cita usuario", esta es más que todo utilizada para que el usuario tenga acceso al estado de su cita y poder modificar el mismo.
 - Luego tenemos otra función llamada "Consultar cita", esta al ingresar la cedula de la persona, se le brinda toda la informacion que se tenga acerca de la cita como la fecha, hora y estado, de lo contrario le retorna  "No hay cita registrada para su cédula".
