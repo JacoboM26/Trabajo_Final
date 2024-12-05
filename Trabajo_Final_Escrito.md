@@ -189,8 +189,8 @@ El programa debe presentar una interfaz en consola fácil de usar para los admin
 Cronograma (Diagrama de Gantt)
 
 El desarrollo del proyecto se llevará a cabo durante un período estimado de 4 semanas. A continuación se muestra el cronograma propuesto con la distribución de las actividades a lo largo del tiempo:
- <img alt="https://github.com/user-attachments/assets/1e531aa3-a01e-4b47-861d-fe94b4f96c68"
- hspace="20px" vspace="0px">
+ <img alt height="200px" src="https://raw.githubusercontent.com/JacoboM26/Trabajo_Final/refs/heads/main/Recursos/Gant%20(1).png" hspace="0px" vspace="0px">>
+            </td>
 
 ### **Horas de formación**
 Dado que el grupo está compuesto por dos estudiantes y se estima una inversión total de 68 horas en el proyecto (sumando las horas de todas las actividades).
