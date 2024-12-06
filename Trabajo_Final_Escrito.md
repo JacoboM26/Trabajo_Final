@@ -200,7 +200,7 @@ Dado que el grupo está compuesto por dos estudiantes y se estima una inversión
 ## 8. Plan de versionado
 Describe las versiones del software y su avance cada que se realice un procedimiento relevante en
 días desde el inicio hasta la entrega final.
- <img alt height="200px" src="https://raw.githubusercontent.com/JacoboM26/Trabajo_Final/refs/heads/main/Recursos/Gant%20(1).png" hspace="0px" vspace="0px">
+ <img alt height="200px" src="https://raw.githubusercontent.com/JacoboM26/Trabajo_Final/refs/heads/main/Recursos/Versi%C3%B3n.jpg" hspace="0px" vspace="0px">
 ## **9.	Algoritmo**
 Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
 - El algoritmo empieza con dos diccionarios "citas" y "usuarios", los cuales van guardando la información ingresada para luego ser utilizada.
