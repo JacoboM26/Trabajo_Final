@@ -218,6 +218,20 @@ Una carpeta en el repositorio en GitHub con todos los archivos y código utiliza
 4. "Añadir evento" Se agrega un evento para determinada cedula (usuario).
 Estas son funciones fundamentales para el correcto funcionamiento de la función del "Administrador" sin ellas el admin perdería su poder.
 - Y finaliza con el retorno al "Menu principal" en caso tal que el usuario aun no haya salido de este.
+## Descripción general 
+Este software pone en marcha un sistema conocido como AgendApp para la administración elemental de citas, orientado tanto a usuarios como a gestores. Su meta principal es simplificar la organización, consulta y manejo de citas.
+Principales características:
+
+    Usuarios:
+        - Verificar citas actuales introduciendo su cédula.
+        - Es posible confirmar o anular una cita establecida.
+
+    Administradores:
+        - Establecer nuevas reuniones con los usuarios.
+        - Cambiar el estado actual de las citas (confirmar o anular).
+        - Elaborar informes con datos unificados de las citas y sucesos documentados.
+
+El sistema también incorpora el registro de sucesos vinculados a las acciones llevadas a cabo por usuarios y administradores, preservando un registro de modificaciones. La interfaz principal orienta al usuario mediante un menú simple, y los datos de las citas se guardan y cargan de manera automática desde un archivo para garantizar la continuidad de la información.
 ## **10. Manual de usuario**
 
 Una carpeta en el repositorio en GitHub registrar el manual de uso del programa.
