@@ -202,7 +202,8 @@ Describe las versiones del software y su avance cada que se realice un procedimi
 días desde el inicio hasta la entrega final.
  <img alt height="200px" src="https://raw.githubusercontent.com/JacoboM26/Trabajo_Final/refs/heads/main/Recursos/Versi%C3%B3n.jpg" hspace="0px" vspace="0px">
 ## **9.	Algoritmo**
-Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
+Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto. 
+Puede acceder al código en: https://github.com/JacoboM26/Trabajo_Final/blob/main/Recursos/Trabajo%20final%20(Entrega).py
 - El algoritmo empieza con dos diccionarios "citas" y "usuarios", los cuales van guardando la información ingresada para luego ser utilizada.
 - Se puso una contraseña con la que el Admin tiene acceso a su menú.
 - Se hizo una funcion en la que se utiliza la libreria random llamada "Generar cita aleatoria" la cual se encarga de crear cedulas y horas fictias, adicional asigna el estado de la cita y también la fecha del día de "hoy".
