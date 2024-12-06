@@ -238,4 +238,4 @@ Una carpeta en el repositorio en GitHub registrar el manual de uso del programa.
 
 # **GitHub**
 El líder del equipo debe crear una cuenta en GitHub y cargar los documentos previamente detallados en la entrega vincular a los compañeros en un repositorio compartido (Lo necesario para cargar en GitHub será explicado en clase).
-
+Puede acceder a todo el trabajo a traves de: https://github.com/JacoboM26/Trabajo_Final
