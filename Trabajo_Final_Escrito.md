@@ -200,14 +200,7 @@ Dado que el grupo está compuesto por dos estudiantes y se estima una inversión
 ## 8. Plan de versionado
 Describe las versiones del software y su avance cada que se realice un procedimiento relevante en
 días desde el inicio hasta la entrega final.
-1. Fuero añadidos el menú principal y menu del administrador.
-2. Se añadieron unos diccionarios para almancenar la información existente y la nueva al ser ingresada.
-3. Se añadió una contraseña para el admin.
-4. Le brindamos un menú con opciones al admin, en el que puede generar reportes, agregar y modificar citas, al igual que añadir eventos.
-5. Utilizamos la libreria Random, para crear cédulas ficticias y hora de las citas. Y también se agregó en la función dos lineas de codigo para que nos brinde la fecha de "hoy".
-6. Tambien fue añadido un menú para el usuario, el cual puede consultar su cita, cancelar o confirmar esta misma.
-7. El admin no puede ser cualquiera, por tanto se creó una función en la cual si la contraseña del admin es correcta le retorna el "Menú del administrador" de lo contrario retorna "La contraseña es incorrecta"
-8. Se agregaron las funciones de "cargar citas" y "Guardar citas".
+ <img alt height="200px" src="https://raw.githubusercontent.com/JacoboM26/Trabajo_Final/refs/heads/main/Recursos/Gant%20(1).png" hspace="0px" vspace="0px">
 ## **9.	Algoritmo**
 Una carpeta en el repositorio en GitHub con todos los archivos y código utilizados en el proyecto.
 - El algoritmo empieza con dos diccionarios "citas" y "usuarios", los cuales van guardando la información ingresada para luego ser utilizada.
