@@ -235,6 +235,7 @@ El sistema también incorpora el registro de sucesos vinculados a las acciones l
 ## **10. Manual de usuario**
 
 Una carpeta en el repositorio en GitHub registrar el manual de uso del programa.
+Puede acceder al manual del usuario en: https://github.com/JacoboM26/Trabajo_Final/blob/main/Manuel_Usuario/Manual_Del_Usuario.md
 
 # **GitHub**
 El líder del equipo debe crear una cuenta en GitHub y cargar los documentos previamente detallados en la entrega vincular a los compañeros en un repositorio compartido (Lo necesario para cargar en GitHub será explicado en clase).
